@@ -1,0 +1,12 @@
+@import url(./bootstrap.min.css);
+
+.form-search{
+	position: relative;
+
+}
+
+.btn{
+	position: absolute;
+	right: .45rem;
+	top: -2px;
+}
